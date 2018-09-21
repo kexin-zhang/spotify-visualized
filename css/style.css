@@ -1,0 +1,22 @@
+.bubble {
+    stroke: #16a085;
+    stroke-width: 1px;
+    fill: #1abc9c;
+    opacity: .8;
+}
+
+.label {
+    font: 8px sans-serif;
+    fill: #95afc0;
+    text-anchor: middle;
+}
+
+.axis text {
+    fill: #95afc0;
+    font: 8px sans-serif;
+}
+
+.axis line, .axis path {
+    stroke: #95afc0;
+    stroke-dasharray: 2 2;
+}
