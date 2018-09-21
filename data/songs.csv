@@ -1,4 +1,4 @@
-Position,Track Name,Artist,Streams,URL,album,date,explicit,features,acousticness,danceability,energy,key,loudness,speechiness,tempo,valence
+position,name,artist,streams,URL,album,date,explicit,features,acousticness,danceability,energy,key,loudness,speechiness,tempo,valence
 1,I Love It (& Lil Pump),Kanye West,36147990,https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ,I Love It,2018,True,Lil Pump,0.0114,0.901,0.522,2,-8.304,0.33,104.053,0.329
 2,Lucky You (feat. Joyner Lucas),Eminem,26258824,https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0,Kamikaze,2018,True,Joyner Lucas,0.0627,0.876,0.786,10,-4.884,0.306,153.068,0.575
 3,In My Feelings,Drake,24669116,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ,Scorpion,2018,True,None,0.0589,0.835,0.626,1,-5.833,0.125,91.03,0.35

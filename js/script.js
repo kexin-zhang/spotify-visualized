@@ -1,8 +1,14 @@
 const WIDTH = 1200;
-const HEIGHT = 600;
+const HEIGHT = 560;
 const FORCE_STRENGTH = 0.03;
 const VELOCITY_DECAY = 0.2;
 const RADIUS = 4;
+let margin = {
+    top: 0,
+    left: 10,
+    right: 20,
+    bottom: 0
+}
 
 let svg = d3.select("#canvas")
             .append("svg")
@@ -11,9 +17,12 @@ let svg = d3.select("#canvas")
             .attr("viewBox", `0 0 ${WIDTH} ${HEIGHT}`)
             .attr("preserveAspectRatio", "xMidYMid meet");
 
+let g = svg.append("g")
+           .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
 let nodes = [];
-let circles = svg.selectAll(".bubble");
-let labels = svg.selectAll(".label");
+let circles = g.selectAll(".bubble");
+let labels = g.selectAll(".label");
 let label_pos = {};
 let curr_key = null;
 let show_labels = true;
@@ -23,7 +32,41 @@ let simulation = d3.forceSimulation()
             .force('charge', d3.forceManyBody().strength(charge))
             .on("tick", ticked);
 
+let tip = d3.tip()
+            .attr("class", "d3-tip")
+            .html(function(d) { return `${d.name} - ${d.artist}<br>Rank: ${d.position}`});
+
+g.call(tip);            
+
 initChart("data/songs.csv", "artist", "treemap");
+
+document.getElementById("artist").addEventListener("click", () => {
+    groupBy("treemap", "artist");
+});
+
+document.getElementById("year").addEventListener("click", () => {
+    groupBy("radial", "date");
+});
+
+document.getElementById("explicit").addEventListener("click", () => {
+    groupBy("radial", "explicit");
+});
+
+document.getElementById("album").addEventListener("click", () => {
+    groupBy("treemap", "album");
+});
+
+document.getElementById("danceability").addEventListener("click", () => {
+    displayByScale("danceability", 0, 1);
+});
+
+document.getElementById("energy").addEventListener("click", () => {
+    displayByScale("energy", 0, 1);
+});
+
+document.getElementById("valence").addEventListener("click", () => {
+    displayByScale("valence", 0, 1);
+});
 
 function initChart(path, key, centerMethod) {
     curr_key = key;
@@ -45,12 +88,14 @@ function initChart(path, key, centerMethod) {
                   .force('x', d3.forceX().strength(FORCE_STRENGTH).x((d) => nodePos(d, centers, key).x))
                   .force('y', d3.forceY().strength(FORCE_STRENGTH).y((d) => nodePos(d, centers, key).y));    
 
-        circles = svg.selectAll('.bubble')
-                        .data(nodes)
-                        .enter()
-                        .append("circle")
-                        .attr("r", (d) => d.radius)
-                        .attr("class", "bubble");
+        circles = g.selectAll('.bubble')
+                    .data(nodes)
+                    .enter()
+                    .append("circle")
+                    .attr("r", (d) => d.radius)
+                    .attr("class", "bubble")
+                    .on("mouseover", tip.show)
+                    .on("mouseout", tip.hide);
         
         
         simulation.nodes(nodes);
@@ -95,10 +140,10 @@ function displayByScale(key, min, max) {
     
     simulation.alpha(1).restart();
 
-    svg.append("g")
-       .attr("transform", `translate(0, ${HEIGHT/2})`)
-       .call(d3.axisBottom(scale))
-       .attr("class", "axis");
+    g.append("g")
+     .attr("transform", `translate(0, ${HEIGHT/2})`)
+     .call(d3.axisBottom(scale))
+     .attr("class", "axis");
 }
 
 function ticked() {
@@ -250,15 +295,15 @@ function updateLabelPos(key) {
 
 function showLabels(key) {
     updateLabelPos(key);
-    labels = svg.selectAll(".label")
-                .data(Object.keys(label_pos))
-                .enter()
-                .append("text")
-                .attr("class", "label")
-                .attr("x", (d) => label_pos[d].x)
-                .attr("y", (d) => label_pos[d].y)
-                .text((d) => d)
-                .call(wrap, 75);
+    labels = g.selectAll(".label")
+              .data(Object.keys(label_pos))
+              .enter()
+              .append("text")
+              .attr("class", "label")
+              .attr("x", (d) => label_pos[d].x)
+              .attr("y", (d) => label_pos[d].y)
+              .text((d) => d)
+              .call(wrap, 75);
 }
 
 // Mike Bostock's text wrapping function lol
