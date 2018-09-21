@@ -1,0 +1,201 @@
+Position,Track Name,Artist,Streams,URL,album,date,explicit,features,acousticness,danceability,energy,key,loudness,speechiness,tempo,valence
+1,I Love It (& Lil Pump),Kanye West,36147990,https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ,I Love It,2018,True,Lil Pump,0.0114,0.901,0.522,2,-8.304,0.33,104.053,0.329
+2,Lucky You (feat. Joyner Lucas),Eminem,26258824,https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0,Kamikaze,2018,True,Joyner Lucas,0.0627,0.876,0.786,10,-4.884,0.306,153.068,0.575
+3,In My Feelings,Drake,24669116,https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ,Scorpion,2018,True,None,0.0589,0.835,0.626,1,-5.833,0.125,91.03,0.35
+4,Eastside (with Halsey & Khalid),benny blanco,23630159,https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao,Eastside (with Halsey & Khalid),2018,False,"Halsey, Khalid",0.555,0.56,0.68,6,-7.648,0.321,89.391,0.319
+5,Promises (with Sam Smith),Calvin Harris,22310270,https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg,Promises (with Sam Smith),2018,False,"Sam Smith, Jessie Reyez",0.0119,0.781,0.768,11,-5.991,0.0394,123.07,0.486
+6,In My Mind,Dynoro,22288306,https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,2018,False,Gigi D'Agostino,0.176,0.694,0.77,6,-5.335,0.149,125.905,0.163
+7,Happier,Marshmello,22028299,https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99,Happier,2018,False,Bastille,0.191,0.687,0.792,5,-2.749,0.0452,100.015,0.671
+8,Girls Like You (feat. Cardi B),Maroon 5,19773031,https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8,Red Pill Blues (Deluxe),2018,True,Cardi B,0.568,0.851,0.541,0,-6.825,0.0505,124.959,0.448
+9,SICKO MODE,Travis Scott,19490524,https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h,ASTROWORLD,2018,True,None,0.00513,0.834,0.73,8,-3.714,0.222,155.008,0.446
+10,Lucid Dreams,Juice WRLD,19291184,https://open.spotify.com/track/0s3nnoMeVWz3989MkNQiRf,Goodbye & Good Riddance,2018,True,None,0.349,0.511,0.566,6,-7.23,0.2,83.903,0.218
+11,FEFE (feat. Nicki Minaj & Murda Beatz),6ix9ine,18765386,https://open.spotify.com/track/2E124GmJRnBJuXbTb4cPUB,FEFE (feat. Nicki Minaj & Murda Beatz),2018,True,"Nicki Minaj, Murda Beatz",0.088,0.931,0.387,1,-9.127,0.412,125.978,0.376
+12,Be Alright,Dean Lewis,17708246,https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm,Be Alright,2018,True,None,0.697,0.553,0.586,11,-6.319,0.0362,126.684,0.443
+13,SAD!,XXXTENTACION,15950210,https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2,?,2018,True,None,0.258,0.74,0.613,8,-4.88,0.145,75.023,0.473
+14,Electricity (with Dua Lipa),Silk City,15882221,https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk,Electricity (with Dua Lipa),2018,False,"Dua Lipa, Diplo, Mark Ronson",0.0104,0.588,0.67,0,-6.439,0.0473,118.159,0.505
+15,Taste (feat. Offset),Tyga,15767496,https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy,Taste (feat. Offset),2018,True,Offset,0.0236,0.884,0.559,0,-7.442,0.12,97.994,0.342
+16,No Brainer,DJ Khaled,15529294,https://open.spotify.com/track/5WvAo7DNuPRmk4APhdPzi8,No Brainer,2018,True,"Justin Bieber, Quavo, Chance the Rapper",0.0733,0.552,0.76,0,-4.706,0.342,135.702,0.639
+17,I Like It,Cardi B,15493637,https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z,Invasion of Privacy,2018,True,"Bad Bunny, J Balvin",0.099,0.816,0.726,5,-3.998,0.129,136.048,0.65
+18,Vaina Loca,Ozuna,15026975,https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA,Aura,2018,False,Manuel Turizo,0.315,0.754,0.805,6,-4.249,0.0752,93.983,0.555
+19,BEBE,6ix9ine,14825643,https://open.spotify.com/track/7ATATJztoWLcqDAcVVof0C,BEBE,2018,True,Anuel Aa,0.172,0.635,0.902,0,-3.559,0.109,102.063,0.286
+20,Natural,Imagine Dragons,14513828,https://open.spotify.com/track/4zIO3ilp5HvTeK3HJHxhMP,Natural,2018,False,None,0.216,0.448,0.612,2,-6.106,0.0708,97.773,0.213
+21,Better,Khalid,14474728,https://open.spotify.com/track/4T3fNx3CgwDRRYgmFCbD4J,Better,2018,True,None,0.0984,0.442,0.585,0,-10.332,0.0964,97.565,0.116
+22,Body (feat. brando),Loud Luxury,14090759,https://open.spotify.com/track/7K7MUBCnzgBAvMVW2RTWNs,Body (feat. brando),2017,False,brando,0.0476,0.752,0.764,1,-4.399,0.038,121.958,0.582
+23,Better Now,Post Malone,14017553,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK,beerbongs & bentleys,2018,True,None,0.354,0.68,0.563,10,-5.843,0.0454,145.028,0.374
+24,breathin,Ariana Grande,14007487,https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J,Sweetener,2018,True,None,0.0211,0.568,0.656,8,-5.413,0.0433,100.049,0.364
+25,God is a woman,Ariana Grande,13406701,https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C,Sweetener,2018,True,None,0.0233,0.602,0.658,1,-5.934,0.0558,145.031,0.268
+26,Wake Up in the Sky,Gucci Mane,13354462,https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq,Wake Up in the Sky,2018,True,"Bruno Mars, Kodak Black",0.00381,0.8,0.578,4,-5.144,0.0485,143.01,0.367
+27,Rise,Jonas Blue,12879039,https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3,Rise,2018,False,Jack & Jack,0.323,0.69,0.784,1,-4.653,0.032,106.066,0.669
+28,Solo (feat. Demi Lovato),Clean Bandit,12795074,https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),2018,False,Demi Lovato,0.0441,0.737,0.636,11,-4.546,0.0437,105.005,0.565
+29,Te Boté - Remix,Nio Garcia,12584964,https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i,Te Boté (Remix),2018,True,"Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",0.542,0.903,0.675,11,-3.445,0.214,96.507,0.442
+30,The Ringer,Eminem,12569332,https://open.spotify.com/track/2jt2WxXMCD4zjACthkJQVE,Kamikaze,2018,True,None,0.0311,0.939,0.551,1,-9.126,0.291,118.552,0.42
+31,Moonlight,XXXTENTACION,12540535,https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL,?,2018,True,None,0.556,0.921,0.537,9,-5.723,0.0804,128.009,0.711
+32,Youngblood,5 Seconds of Summer,12534601,https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE,Youngblood (Deluxe),2018,False,None,0.0169,0.596,0.854,7,-5.114,0.463,120.274,0.152
+33,Nonstop,Drake,12138094,https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct,Scorpion,2018,True,None,0.0164,0.912,0.412,7,-8.074,0.124,154.983,0.422
+34,"Thunderclouds with Sia, Diplo & Labrinth",Sia,12055103,https://open.spotify.com/track/5a8RPWgKSmcGBGcffmIrUi,"Thunderclouds with Sia, Diplo & Labrinth",2018,False,"Diplo, Labrinth, LSD",0.0085,0.691,0.716,7,-5.985,0.0351,112.035,0.507
+35,Jackie Chan,Tiësto,11851093,https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,2018,True,"Dzeko, Preme, Post Malone",0.374,0.747,0.834,3,-2.867,0.045,128.005,0.687
+36,Beautiful (feat. Camila Cabello),Bazzi,11314402,https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF,Beautiful (feat. Camila Cabello),2018,False,Camila Cabello,0.346,0.638,0.717,2,-4.722,0.0337,100.027,0.249
+37,Shotgun,George Ezra,11231503,https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC,Staying at Tamara's,2018,False,None,0.286,0.672,0.735,5,-4.733,0.0457,115.741,0.754
+38,One Kiss (with Dua Lipa),Calvin Harris,11207836,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),2018,False,Dua Lipa,0.037,0.791,0.862,9,-3.24,0.11,123.994,0.592
+39,Fall,Eminem,10826181,https://open.spotify.com/track/58QhkbaAkLFnn7JwAnAato,Kamikaze,2018,True,None,0.227,0.83,0.546,1,-5.716,0.295,182.973,0.535
+40,No Es Justo,J Balvin,10724777,https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7,Vibras,2018,False,Zion & Lennox,0.161,0.684,0.811,7,-4.494,0.0714,87.866,0.721
+41,Jocelyn Flores,XXXTENTACION,10418248,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96,17,2017,True,None,0.469,0.872,0.391,0,-9.144,0.242,134.021,0.437
+42,Don't Leave Me Alone (feat. Anne-Marie),David Guetta,10332824,https://open.spotify.com/track/2zy9TMoZlYGuCNY4TLqG24,7,2018,False,Anne-Marie,0.177,0.694,0.617,4,-7.838,0.0469,127.928,0.496
+43,Sin Pijama,Becky G,10312740,https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww,Sin Pijama,2018,False,Natti Natasha,0.354,0.791,0.745,11,-3.695,0.0464,94.014,0.82
+44,God's Plan,Drake,10298996,https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn,Scorpion,2018,True,None,0.0332,0.754,0.449,7,-9.211,0.109,77.169,0.357
+45,Goodbye (feat. Nicki Minaj & Willy William),Jason Derulo,9771636,https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG,Goodbye (feat. Nicki Minaj & Willy William),2018,False,"David Guetta, Nicki Minaj, Willy William",0.0776,0.643,0.904,0,-3.694,0.0739,103.028,0.481
+46,Happy Now,Zedd,9686698,https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa,Happy Now,2018,False,Elley Duhé,0.579,0.503,0.741,4,-5.128,0.047,88.335,0.458
+47,no tears left to cry,Ariana Grande,9625411,https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo,Sweetener,2018,False,None,0.04,0.699,0.713,9,-5.507,0.0594,121.993,0.354
+48,rockstar (feat. 21 Savage),Post Malone,9561080,https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt,beerbongs & bentleys,2018,True,21 Savage,0.117,0.587,0.535,5,-6.09,0.0898,159.847,0.14
+49,Whenever (feat. Conor Maynard),Kris Kross Amsterdam,9201968,https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z,Whenever (feat. Conor Maynard),2018,False,"The Boy Next Door, Conor Maynard",0.151,0.734,0.765,7,-5.562,0.0621,109.989,0.518
+50,Not Alike (feat. Royce Da 5'9),Eminem,9136276,https://open.spotify.com/track/28FGV3ORH14MYORd7s5dlU,Kamikaze,2018,True,"Royce Da 5'9""",0.0692,0.904,0.756,10,-3.746,0.32,140.005,0.342
+51,changes,XXXTENTACION,9056512,https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO,?,2018,False,None,0.883,0.669,0.308,11,-10.068,0.029,64.934,0.52
+52,High Hopes,Panic! At The Disco,8854896,https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom,Pray For The Wicked,2018,False,None,0.193,0.579,0.904,5,-2.729,0.0618,82.014,0.681
+53,Mo Bamba,Sheck Wes,8830267,https://open.spotify.com/track/3QybPutx0Tjk472bBKjNWn,Mo Bamba,2017,True,None,0.268,0.738,0.629,6,-4.882,0.0495,146.067,0.319
+54,STARGAZING,Travis Scott,8804838,https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m,ASTROWORLD,2018,True,None,0.00947,0.487,0.789,8,-3.69,0.044,150.007,0.0564
+55,Falling Down,Lil Peep,8795605,https://open.spotify.com/track/0Dn40gxVCMo5TkgS8Ik18Q,Falling Down,2018,True,XXXTENTACION,0.0175,0.669,0.574,4,-6.442,0.0286,120.013,0.273
+56,Cuando Te Besé,Becky G,8752505,https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy,Cuando Te Besé,2018,False,Paulo Londra,0.307,0.772,0.732,9,-3.713,0.213,100.048,0.295
+57,Mala Mía,Maluma,8660335,https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh,Mala Mía,2018,False,None,0.31,0.749,0.752,6,-4.883,0.345,180.049,0.901
+58,REMEDY,Alesso,8545089,https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg,REMEDY,2018,False,None,0.269,0.601,0.775,0,-4.612,0.0473,119.964,0.483
+59,Praise The Lord (Da Shine),A$AP Rocky,8311905,https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z,TESTING,2018,True,Skepta,0.0609,0.85,0.569,5,-8.152,0.136,80.02,0.294
+60,Psycho (feat. Ty Dolla $ign),Post Malone,8172513,https://open.spotify.com/track/3swc6WTsr7rl9DqQKQA55C,beerbongs & bentleys,2018,True,Ty Dolla $ign,0.58,0.739,0.559,8,-8.011,0.117,140.124,0.439
+61,Quiere Beber,Anuel Aa,8050439,https://open.spotify.com/track/3rPAD722s5FFNnwjC91t7Z,Real Hasta la Muerte,2018,False,None,0.372,0.773,0.57,8,-3.482,0.113,95.038,0.772
+62,Yes Indeed,Lil Baby,7983617,https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ,Harder Than Ever,2018,True,Drake,0.035,0.964,0.346,5,-9.309,0.53,119.958,0.562
+63,Shape of You,Ed Sheeran,7910284,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3,÷ (Deluxe),2017,False,None,0.581,0.825,0.652,1,-3.183,0.0802,95.977,0.931
+64,Fuck Love (feat. Trippie Redd),XXXTENTACION,7839665,https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2,17,2017,True,Trippie Redd,0.0172,0.797,0.533,0,-9.74,0.0412,131.036,0.329
+65,Greatest,Eminem,7810250,https://open.spotify.com/track/2XTquzYQAdT1Hk78bOUwsv,Kamikaze,2018,True,None,0.0441,0.809,0.737,1,-5.186,0.108,80.025,0.367
+66,Self Care,Mac Miller,7698017,https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx,Swimming,2018,True,None,0.367,0.52,0.538,1,-8.109,0.206,141.894,0.177
+67,Noticed,Lil Mosey,7609672,https://open.spotify.com/track/7d6XJZjnm7iWcKwYL9z5kC,Noticed,2018,True,None,0.462,0.699,0.558,11,-7.622,0.0603,79.992,0.493
+68,Say My Name,David Guetta,7603228,https://open.spotify.com/track/0YammaEkYSeo9vQYZ1OwS6,7,2018,False,"Bebe Rexha, J Balvin",0.137,0.703,0.66,10,-5.119,0.123,95.031,0.79
+69,Clandestino,Shakira,7600854,https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf,Clandestino,2018,False,Maluma,0.39,0.766,0.822,1,-4.126,0.16,165.842,0.881
+70,2002,Anne-Marie,7563249,https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo,Speak Your Mind (Deluxe),2018,False,None,0.0372,0.697,0.683,1,-2.881,0.117,96.133,0.603
+71,RAP DEVIL,Machine Gun Kelly,7492195,https://open.spotify.com/track/63TyoT9Ee03rQxv8xmdJ2l,RAP DEVIL,2018,True,None,0.216,0.894,0.839,9,-4.487,0.224,149.955,0.762
+72,Drip Too Hard,Lil Baby,7366534,https://open.spotify.com/track/1BxkZE73h9BN3qwuA15TA3,Drip Too Hard,2018,True,Gunna,0.0945,0.9,0.653,1,-6.962,0.289,112.503,0.399
+73,Nevermind,Dennis Lloyd,7362554,https://open.spotify.com/track/63SevszngYpZOwf63o61K4,Nevermind,2017,False,None,0.156,0.592,0.691,3,-8.354,0.196,99.976,0.0796
+74,Nice For What,Drake,7337259,https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw,Scorpion,2018,True,None,0.0891,0.586,0.909,8,-6.474,0.0705,93.394,0.757
+75,SLOW DANCING IN THE DARK,Joji,7237051,https://open.spotify.com/track/0UyljEbX9dqI1K0sqdv6B6,SLOW DANCING IN THE DARK,2018,True,None,0.544,0.515,0.479,3,-7.458,0.0261,88.964,0.284
+76,I'm a Mess,Bebe Rexha,7220119,https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R,Expectations,2018,False,None,0.00281,0.63,0.694,11,-6.257,0.0253,97.005,0.216
+77,Born To Be Yours,Kygo,7121822,https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM,Born To Be Yours,2018,False,Imagine Dragons,0.3,0.688,0.688,3,-5.84,0.0357,114.011,0.451
+78,Ocean (feat. Khalid),Martin Garrix,7107172,https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS,Ocean (feat. Khalid),2018,False,Khalid,0.584,0.506,0.693,0,-7.265,0.0412,139.912,0.221
+79,No Me Acuerdo,Thalía,7073847,https://open.spotify.com/track/00EPIEnX1JFjff8sC6bccd,No Me Acuerdo,2018,False,Natti Natasha,0.187,0.836,0.799,7,-4.247,0.0873,94.033,0.772
+80,Kamikaze,Eminem,7058478,https://open.spotify.com/track/2gsNpSn7VvvJuSrIDfRoYy,Kamikaze,2018,True,None,0.112,0.78,0.808,2,-5.175,0.484,79.982,0.642
+81,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,7026794,https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW,Back To You (From 13 Reasons Why – Season 2 Soundtrack),2018,False,None,0.0945,0.601,0.724,6,-4.856,0.0486,102.061,0.508
+82,New Patek,Lil Uzi Vert,7022779,https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud,New Patek,2018,True,None,0.0367,0.85,0.785,8,-4.963,0.345,145.063,0.718
+83,Believer,Imagine Dragons,6979257,https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP,Evolve,2017,False,None,0.0622,0.776,0.78,10,-4.374,0.128,124.949,0.666
+84,Asesina,Brytiago,6972259,https://open.spotify.com/track/6rbhaJsE4uLzpPf8WYSHDK,Asesina,2018,False,Darell,0.614,0.845,0.663,10,-5.233,0.27,94.215,0.508
+85,IDGAF,Dua Lipa,6880881,https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr,Dua Lipa (Deluxe),2017,True,None,0.0403,0.836,0.544,7,-5.975,0.0943,97.028,0.51
+86,Havana,Camila Cabello,6814477,https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W,Camila,2018,False,Young Thug,0.184,0.765,0.523,2,-4.333,0.03,104.988,0.394
+87,Darkside,Alan Walker,6799401,https://open.spotify.com/track/1snWlbcbgQpJfknoI30DWG,Darkside,2018,False,"Au/Ra, Tomine Harket",0.164,0.425,0.642,4,-5.06,0.0502,170.008,0.112
+88,SWISH,Tyga,6741797,https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD,SWISH,2018,True,None,0.0831,0.884,0.541,11,-5.608,0.221,105.009,0.274
+89,lovely (with Khalid),Billie Eilish,6738107,https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),2018,False,Khalid,0.934,0.351,0.296,4,-10.109,0.0333,115.284,0.12
+90,New Rules,Dua Lipa,6496909,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0,Dua Lipa (Deluxe),2017,False,None,0.00261,0.762,0.7,9,-6.021,0.0694,116.073,0.608
+91,Kokain,Bonez MC,6492645,https://open.spotify.com/track/1H3oIeKUEHpBhXUiso0IMH,Kokain,2018,True,"RAF Camora, Gzuz",0.231,0.615,0.677,5,-7.906,0.363,170.117,0.608
+92,Lean Wit Me,Juice WRLD,6478545,https://open.spotify.com/track/29tc0GbW0pTSBZSCZF3NWk,Goodbye & Good Riddance,2018,True,None,0.0414,0.665,0.651,1,-5.515,0.156,163.935,0.237
+93,Perfect,Ed Sheeran,6453595,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v,÷ (Deluxe),2017,False,None,0.163,0.599,0.448,8,-6.312,0.0232,95.05,0.168
+94,High On Life (feat. Bonn),Martin Garrix,6413598,https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),2018,False,Bonn,0.0129,0.414,0.486,6,-6.431,0.0311,128.038,0.368
+95,FRIENDS,Marshmello,6377713,https://open.spotify.com/track/08bNPGLD8AhKpnnERrAc6G,FRIENDS,2018,True,Anne-Marie,0.205,0.626,0.88,9,-2.384,0.0504,95.079,0.534
+96,Love Someone,Lukas Graham,6364881,https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ,Love Someone,2018,False,None,0.161,0.55,0.415,9,-6.557,0.052,172.065,0.274
+97,Thunder,Imagine Dragons,6306088,https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB,Evolve,2017,False,None,0.00671,0.605,0.822,0,-4.833,0.0438,167.997,0.288
+98,All Girls Are The Same,Juice WRLD,6274667,https://open.spotify.com/track/0XySogm94T51XF5F2jumXm,Goodbye & Good Riddance,2018,True,None,0.0769,0.671,0.529,0,-7.226,0.307,161.989,0.203
+99,The Middle,Zedd,6269717,https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc,The Middle,2018,False,"Maren Morris, Grey",0.171,0.753,0.657,7,-3.061,0.0449,107.01,0.437
+100,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",YG,6147076,https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy,STAY DANGEROUS,2018,True,"2 Chainz, Big Sean, Nicki Minaj",0.00552,0.745,0.346,1,-7.709,0.331,203.911,0.112
+101,Look Alive (feat. Drake),BlocBoy JB,6135789,https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL,Look Alive (feat. Drake),2018,True,Drake,0.00104,0.922,0.581,10,-7.495,0.27,140.022,0.595
+102,I Like Me Better,Lauv,6028071,https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ,I met you when I was 18. (the playlist),2018,False,None,0.535,0.752,0.505,9,-7.621,0.253,91.97,0.419
+103,Amigos Con Derechos,Reik,5971974,https://open.spotify.com/track/2zDj4WjbNDmrRL6Z4YjjCA,Amigos Con Derechos,2018,False,Maluma,0.0481,0.686,0.807,1,-3.324,0.0613,183.971,0.63
+104,Everybody Dies In Their Nightmares,XXXTENTACION,5965127,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7,17,2017,True,None,0.847,0.734,0.57,7,-7.066,0.133,129.953,0.689
+105,Flames,David Guetta,5953979,https://open.spotify.com/track/66BjcDhhwWCcQIBxHMpKXh,7,2018,False,Sia,0.0817,0.631,0.649,5,-5.892,0.0385,93.95,0.421
+106,Love Lies (with Normani),Khalid,5938437,https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk,Love Lies (with Normani),2018,False,Normani,0.0956,0.708,0.648,6,-5.626,0.0449,143.955,0.338
+107,X - Remix,Nicky Jam,5906176,https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw,X (Remix),2018,False,"J Balvin, Maluma, Ozuna",0.0561,0.663,0.696,9,-4.957,0.103,180.113,0.738
+108,La Player (Bandolera),Zion & Lennox,5873265,https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),2018,False,None,0.16,0.769,0.838,2,-5.238,0.0633,93.996,0.602
+109,Me Niego,Reik,5826749,https://open.spotify.com/track/6jA8JUuPCGYjFcgw0AoM5T,Me Niego,2018,False,"Ozuna, Wisin",0.0543,0.777,0.779,0,-4.449,0.0972,94.023,0.768
+110,Ya No Tiene Novio,Sebastian Yatra,5780517,https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu,Ya No Tiene Novio,2018,False,Mau y Ricky,0.048,0.632,0.832,7,-1.948,0.154,182.184,0.784
+111,Toda - Remix,Alex Rose,5764085,https://open.spotify.com/track/7nD2JPaxIKUdxd2UWgnaGL,Toda (Remix),2018,True,"Rauw Alejandro, Cazzu, Lenny Tavárez, Lyanno",0.16,0.512,0.452,5,-7.217,0.124,80.04,0.364
+112,I Fall Apart,Post Malone,5710174,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh,Stoney (Deluxe),2016,True,None,0.0689,0.556,0.538,8,-5.408,0.0382,143.95,0.291
+113,Blah Blah Blah,Armin van Buuren,5654676,https://open.spotify.com/track/0tp6mwUt99QnfY95T30Lqj,Blah Blah Blah,2018,False,None,0.00882,0.378,0.963,5,-3.911,0.0682,103.406,0.16
+114,XO TOUR Llif3,Lil Uzi Vert,5632975,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO,Luv Is Rage 2,2017,True,None,0.00264,0.732,0.75,11,-6.366,0.231,155.096,0.401
+115,Drew Barrymore,Bryce Vine,5607029,https://open.spotify.com/track/0OgGn1ofaj55l2PcihQQGV,Drew Barrymore,2017,True,None,0.493,0.763,0.572,11,-7.312,0.0595,151.93,0.25
+116,Look At Me!,XXXTENTACION,5579394,https://open.spotify.com/track/6eYxmK9fdL4hwLnXG2zY3s,Revenge,2017,True,None,0.259,0.763,0.726,1,-6.405,0.282,139.059,0.349
+117,YOSEMITE,Travis Scott,5415054,https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR,ASTROWORLD,2018,True,None,0.283,0.785,0.554,0,-6.571,0.0409,128.047,0.144
+118,Wasted (feat. Lil Uzi Vert),Juice WRLD,5395663,https://open.spotify.com/track/3obgSF06ki98lYNLNq5vCB,Goodbye & Good Riddance,2018,True,Lil Uzi Vert,0.0381,0.742,0.579,0,-5.024,0.202,144.994,0.502
+119,X,Nicky Jam,5378107,https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA,X,2018,False,J Balvin,0.0364,0.595,0.773,9,-4.736,0.0549,180.073,0.711
+120,8 Letters,Why Don't We,5358067,https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt,8 Letters,2018,False,None,0.649,0.607,0.478,1,-5.702,0.031,88.979,0.255
+121,Normal,Eminem,5309344,https://open.spotify.com/track/0evt4UZbdhnHtcAnxkm6A1,Kamikaze,2018,True,None,0.261,0.907,0.64,6,-6.542,0.354,120.995,0.803
+122,Don’t Matter To Me (with Michael Jackson),Drake,5289243,https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0,Scorpion,2018,False,Michael Jackson,0.493,0.826,0.318,10,-12.391,0.0574,103.002,0.138
+123,Venom - Music From The Motion Picture,Eminem,5236878,https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4,Kamikaze,2018,True,None,0.0193,0.749,0.794,0,-5.063,0.064,135.959,0.46
+124,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Rudimental,5219096,https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",2018,False,"Jess Glynne, Macklemore, Dan Caplen",0.194,0.653,0.809,0,-4.057,0.0474,92.213,0.55
+125,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofia Reyes,5202889,https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",2018,False,"Jason Derulo, De La Ghetto",0.165,0.792,0.895,1,-3.112,0.0589,94.968,0.794
+126,Feels Like Summer,Childish Gambino,5189836,https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr,Summer Pack,2018,False,None,0.162,0.554,0.596,7,-8.214,0.13,165.728,0.255
+127,Verleden Tijd,Frenna,5187029,https://open.spotify.com/track/4kuexchmxuc5NXmokfo1WH,Verleden Tijd,2018,True,Lil' Kleine,0.131,0.771,0.661,10,-6.718,0.0916,104.884,0.183
+128,Stepping Stone,Eminem,5165472,https://open.spotify.com/track/60Z57Wdrn0pEVpHI7d7GAX,Kamikaze,2018,True,None,0.0305,0.616,0.684,7,-6.032,0.311,179.503,0.312
+129,Pretty Little Fears (feat. J. Cole),6LACK,5158068,https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp,East Atlanta Love Letter,2018,True,J. Cole,0.711,0.611,0.466,9,-11.361,0.372,192.08,0.223
+130,Meant to Be (feat. Florida Georgia Line),Bebe Rexha,5139627,https://open.spotify.com/track/4e4fqjx0Izh4svvTef1z7e,Expectations,2018,False,Florida Georgia Line,0.0476,0.642,0.772,10,-6.61,0.0848,153.995,0.589
+131,Unica,Ozuna,5091092,https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A,Aura,2018,False,None,0.212,0.653,0.859,0,-3.048,0.0449,174.037,0.705
+132,Hipócrita,Anuel Aa,5026781,https://open.spotify.com/track/6XBjCetHKdO5L9cwMDVffw,Real Hasta la Muerte,2018,False,Zion,0.303,0.79,0.858,2,-2.78,0.0471,92.05,0.79
+133,Too Good At Goodbyes,Sam Smith,5013289,https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV,The Thrill Of It All (Special Edition),2017,False,None,0.652,0.698,0.375,5,-8.279,0.0491,91.92,0.534
+134,Want To,Dua Lipa,5009169,https://open.spotify.com/track/0CBFOvHlyqy30Q5tbyNHfQ,Want To,2018,False,None,0.0788,0.572,0.691,8,-4.783,0.123,92.082,0.318
+135,Closer,The Chainsmokers,4980175,https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,Closer,2016,False,Halsey,0.414,0.748,0.524,8,-5.599,0.0338,95.01,0.661
+136,BONNIE & CLYDE,Loredana,4975758,https://open.spotify.com/track/5UtiebKGhsSce9gX1qCqic,BONNIE & CLYDE,2018,True,Mozzik,0.11,0.792,0.62,8,-4.832,0.266,169.985,0.637
+137,Say You Won't Let Go,James Arthur,4950638,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh,Back from the Edge,2016,False,None,0.695,0.358,0.557,10,-7.398,0.059,85.043,0.494
+138,Burn Out (feat. Dewain Whitmore),Martin Garrix,4950269,https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD,Burn Out (feat. Dewain Whitmore),2018,False,"Justin Mylo, Dewain Whitmore",0.0156,0.594,0.722,4,-5.751,0.0398,127.877,0.407
+139,I'm Yours,Jason Mraz,4924665,https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW,We Sing. We Dance. We Steal Things.,2008,False,None,0.595,0.686,0.457,11,-8.322,0.0468,150.953,0.718
+140,Mine,Bazzi,4905020,https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR,COSMIC,2018,True,None,0.0161,0.71,0.789,4,-3.874,0.0722,142.929,0.717
+141,Mariners Apartment Complex,Lana Del Rey,4899476,https://open.spotify.com/track/4UAW2gObi5o6sJla0qZpPn,Mariners Apartment Complex,2018,True,None,0.795,0.528,0.284,9,-11.487,0.0287,76.012,0.172
+142,Happier,Ed Sheeran,4865358,https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB,÷ (Deluxe),2017,False,None,0.536,0.522,0.385,0,-7.355,0.0288,89.792,0.236
+143,OTW,Khalid,4857378,https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI,OTW,2018,True,"6LACK, Ty Dolla $ign",0.183,0.652,0.678,2,-6.183,0.0541,72.989,0.28
+144,Medicina,Anitta,4841409,https://open.spotify.com/track/4R5xvs5X0phd0EYWyGigju,Medicina,2018,False,None,0.0441,0.798,0.784,4,-3.545,0.0667,93.96,0.653
+145,Leave Me Alone,Flipp Dinero,4839335,https://open.spotify.com/track/14mHfNsSHN0FbLftyjrV9g,Leave Me Alone,2018,True,None,0.107,0.792,0.743,7,-2.806,0.0851,150.024,0.742
+146,Taking A Walk,Trippie Redd,4833553,https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2,LIFE'S A TRIP,2018,True,None,0.68,0.767,0.538,0,-6.044,0.052,81.031,0.343
+147,Trip,Ella Mai,4808763,https://open.spotify.com/track/7noud145AHZGg74vpWOsCa,Trip,2018,False,None,0.214,0.717,0.605,11,-5.68,0.075,81.047,0.387
+148,the remedy for a broken heart (why am I so in love),XXXTENTACION,4799707,https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7,?,2018,True,None,0.779,0.699,0.304,1,-11.192,0.0993,119.705,0.271
+149,Mi Cama - Remix,Karol G,4785491,https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE,Mi Cama (Remix),2018,False,"J Balvin, Nicky Jam",0.299,0.815,0.784,9,-4.423,0.0738,162.958,0.832
+150,W O R K I N M E,Quavo,4747980,https://open.spotify.com/track/33tNYw9oMtSkGe27NpgS64,W O R K I N M E,2018,True,None,0.182,0.79,0.629,8,-4.055,0.142,170.023,0.267
+151,Me Dijeron,Ozuna,4689793,https://open.spotify.com/track/17UUYZ290omPaJY4wKeyHh,Aura,2018,False,None,0.0273,0.8,0.841,5,-2.817,0.0524,94.021,0.798
+152,Hope,XXXTENTACION,4676527,https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah,?,2018,True,None,0.661,0.592,0.457,9,-6.081,0.0603,146.04,0.225
+153,Ric Flair Drip (& Metro Boomin),Offset,4674165,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR,Without Warning,2017,True,Metro Boomin,0.149,0.88,0.428,9,-8.28,0.206,100.007,0.333
+154,Good Guy (feat. Jessie Reyez),Eminem,4666916,https://open.spotify.com/track/4g32MdRoqwGKQd3NXIRhpU,Kamikaze,2018,True,Jessie Reyez,0.244,0.696,0.634,9,-6.918,0.281,89.973,0.728
+155,HUMBLE.,Kendrick Lamar,4649310,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS,DAMN.,2017,True,None,0.000282,0.908,0.621,1,-6.638,0.102,150.011,0.421
+156,Madura (feat. Bad Bunny),Cosculluela,4637596,https://open.spotify.com/track/0r9d60ZYPAlFHq8qnUtkXN,Madura (feat. Bad Bunny),2018,False,Bad Bunny,0.138,0.878,0.555,1,-7.639,0.202,88.029,0.751
+157,Side Effects,The Chainsmokers,4619283,https://open.spotify.com/track/5hrXLJJrnKraxRQntH0Vv9,Sick Boy...This Feeling,2018,False,Emily Warren,0.00277,0.673,0.71,8,-6.744,0.0324,110.017,0.54
+158,Africa,Toto,4615090,https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX,Toto IV,1982,False,None,0.257,0.671,0.373,9,-18.064,0.0323,92.717,0.732
+159,Hopeless Romantic (feat. Swae Lee),Wiz Khalifa,4560533,https://open.spotify.com/track/7IBSffWIu7P2MC7kMwy2FM,Rolling Papers 2,2018,True,Swae Lee,0.307,0.877,0.477,9,-7.379,0.0587,127.023,0.552
+160,Dura - Remix,Daddy Yankee,4552750,https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb,Dura (Remix),2018,False,"Becky G, Bad Bunny, Natti Natasha",0.188,0.772,0.803,1,-3.035,0.0468,94.981,0.853
+161,Celoso,Lele Pons,4536903,https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg,Celoso,2018,False,None,0.352,0.746,0.703,4,-4.179,0.107,166.043,0.667
+162,In My Blood,Shawn Mendes,4519552,https://open.spotify.com/track/2QZ7WLBE8h2y1Y5Fb8RYbH,Shawn Mendes,2018,False,None,0.0573,0.622,0.712,5,-7.321,0.066,140.025,0.487
+163,Por Perro,Sebastian Yatra,4515465,https://open.spotify.com/track/2alIsNw1mqEShbWyO1HXZZ,MANTRA,2018,False,"Luis Figueroa, Lary Over",0.429,0.684,0.762,0,-5.18,0.0501,172.009,0.892
+164,Congratulations,Post Malone,4514139,https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9,Stoney (Deluxe),2016,True,Quavo,0.215,0.63,0.804,6,-4.183,0.0363,123.146,0.492
+165,Call Out My Name,The Weeknd,4455221,https://open.spotify.com/track/1gm616Plq4ScqNi7TVkZ5N,"My Dear Melancholy,",2018,False,None,0.218,0.489,0.598,1,-4.929,0.036,134.045,0.172
+166,Estamos Bien,Bad Bunny,4424032,https://open.spotify.com/track/7glCSQqV5o6NU88Cn4zPZn,Estamos Bien,2018,True,None,0.831,0.793,0.557,9,-5.618,0.1,120.118,0.468
+167,All I Am,Jess Glynne,4323512,https://open.spotify.com/track/6X6SdJzxyw7GzxwP2fr9WV,All I Am,2018,False,None,0.0445,0.74,0.669,0,-5.199,0.0373,122.007,0.536
+168,Wonderwall - Remastered,Oasis,4301297,https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa,(What's The Story) Morning Glory? [Remastered],1995,False,None,0.000452,0.378,0.896,2,-4.066,0.0407,174.302,0.469
+169,Culpables,Manuel Turizo,4299271,https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn,Culpables,2018,False,None,0.94,0.573,0.31,3,-11.134,0.296,177.601,0.764
+170,Culpables,Karol G,4270973,https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH,Culpables,2018,False,Anuel Aa,0.279,0.728,0.801,8,-2.942,0.0683,130.059,0.416
+171,Something Just Like This,The Chainsmokers,4268102,https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW,Memories...Do Not Open,2017,False,Coldplay,0.0498,0.617,0.635,11,-6.769,0.0317,103.019,0.446
+172,What Lovers Do (feat. SZA),Maroon 5,4259473,https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG,Red Pill Blues (Deluxe),2018,False,SZA,0.0788,0.799,0.597,5,-5.131,0.0611,110.001,0.419
+173,IDOL,BTS,4247303,https://open.spotify.com/track/03iCbZaM4OkRR4We6wIzvx,Love Yourself 結 'Answer',2018,False,Nicki Minaj,0.00219,0.709,0.857,9,-3.394,0.0881,126.038,0.446
+174,Young Dumb & Broke,Khalid,4199557,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY,American Teen,2017,False,None,0.199,0.798,0.539,1,-6.351,0.0421,136.949,0.394
+175,BUTTERFLY EFFECT,Travis Scott,4194519,https://open.spotify.com/track/6xcJyGpfZbuuiequtnlKt4,ASTROWORLD,2018,False,None,0.053,0.764,0.628,11,-5.851,0.0503,140.963,0.196
+176,Balenciaga Challenge (feat. Offset),6LACK,4193702,https://open.spotify.com/track/6Zisja44KqMZj4GM4UY6Yv,East Atlanta Love Letter,2018,True,Offset,0.128,0.746,0.404,10,-9.849,0.403,142.913,0.686
+177,Thinking Out Loud,Ed Sheeran,4178749,https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg,x (Wembley Edition),2013,False,None,0.474,0.781,0.445,2,-6.061,0.0295,78.998,0.591
+178,Plug Walk,Rich The Kid,4166493,https://open.spotify.com/track/1ZAyjvIk9YiD76yYy0TEG6,The World Is Yours,2018,True,None,0.202,0.876,0.519,11,-6.531,0.143,94.981,0.158
+179,Silence,Marshmello,4159196,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU,Silence,2017,False,Khalid,0.256,0.52,0.761,4,-3.093,0.0853,141.971,0.286
+180,Whatever It Takes,Imagine Dragons,4149012,https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb,Evolve,2017,False,None,0.0362,0.672,0.655,10,-5.021,0.0311,134.945,0.556
+181,Chica Paranormal,Paulo Londra,4141897,https://open.spotify.com/track/2r77vqSZkOktTSgmAOoHsV,Chica Paranormal,2018,False,None,0.216,0.84,0.596,6,-4.319,0.0918,139.937,0.71
+182,goosebumps,Travis Scott,4137680,https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2,Birds In The Trap Sing McKnight,2016,True,None,0.0847,0.841,0.728,7,-3.37,0.0484,130.049,0.43
+183,Remind Me to Forget,Kygo,4137182,https://open.spotify.com/track/6xTU6B6nFwKKTSZ9ySXS80,Kids in Love,2017,False,Miguel,0.158,0.689,0.505,0,-6.389,0.0933,99.017,0.312
+184,REEL IT IN,Aminé,4080668,https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY,ONEPOINTFIVE,2018,True,None,0.073,0.754,0.342,10,-8.677,0.0991,128.981,0.423
+185,Feel It Still,Portugal. The Man,4056054,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK,Woodstock,2017,False,None,0.0417,0.801,0.795,1,-5.115,0.0504,79.028,0.754
+186,No Quiero Amarte (feat. Zion & Lennox),Justin Quiles,4052316,https://open.spotify.com/track/5bITfqKGaPakO1l99hOMsI,No Quiero Amarte (feat. Zion & Lennox),2018,False,"Zion, Lennox",0.128,0.734,0.793,6,-4.731,0.0454,89.961,0.511
+187,Ciumeira - Ao Vivo,Marília Mendonça,4034540,https://open.spotify.com/track/2H1liABu20HXBOmbt5SQz1,Ciumeira (Ao Vivo),2018,False,None,0.204,0.741,0.813,11,-4.83,0.0452,123.842,0.765
+188,All The Stars (with SZA),Kendrick Lamar,4031958,https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s,Black Panther The Album Music From And Inspired By,2018,True,SZA,0.0605,0.698,0.633,8,-4.946,0.0597,96.924,0.552
+189,Bohemian Rhapsody - Remastered 2011,Queen,4015563,https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J,A Night At The Opera (Deluxe Remastered Version),1975,False,None,0.254,0.397,0.396,3,-9.91,0.05,142.913,0.227
+190,Photograph,Ed Sheeran,4013314,https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy,x (Wembley Edition),2013,False,None,0.607,0.614,0.379,4,-10.48,0.0476,107.989,0.201
+191,Walk It Talk It,Migos,3983109,https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP,Culture II,2018,True,Drake,0.0739,0.909,0.628,2,-5.456,0.201,145.905,0.406
+192,I'm Upset,Drake,3971008,https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT,Scorpion,2018,True,None,0.279,0.899,0.586,11,-7.866,0.344,150.001,0.492
+193,Unforgettable,French Montana,3962547,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe,Jungle Rules,2017,True,Swae Lee,0.0293,0.726,0.769,6,-5.043,0.123,97.985,0.733
+194,One Dance,Drake,3958516,https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0,Views,2016,False,"WizKid, Kyla",0.00842,0.796,0.61,1,-5.857,0.0516,103.99,0.391
+195,Wake Me Up,Avicii,3957807,https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD,True,2013,False,None,0.00346,0.518,0.784,2,-5.659,0.0524,124.102,0.588
+196,Lust,Lil Skies,3947713,https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S,Life of a Dark Rose,2017,True,None,0.138,0.718,0.767,9,-5.641,0.166,160.084,0.519
+197,Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,3922044,https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI,Perfect Duet (Ed Sheeran & Beyoncé),2017,False,Beyoncé,0.779,0.587,0.299,8,-7.365,0.0263,94.992,0.356
+198,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,3920653,https://open.spotify.com/track/7w9bgPAmPTtrkt2v16QWvQ,Curtain Call (Deluxe),2005,True,None,0.00971,0.701,0.728,2,-4.554,0.255,171.388,0.0591
+199,Halo,Beyoncé,3900013,https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr,I AM...SASHA FIERCE - Platinum Edition,2008,False,None,0.273,0.422,0.712,11,-5.907,0.1,78.454,0.471
+200,sweetener,Ariana Grande,3893594,https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH,Sweetener,2018,True,None,0.248,0.721,0.459,4,-6.408,0.032,119.914,0.46
