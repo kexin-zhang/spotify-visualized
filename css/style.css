@@ -27,6 +27,11 @@ body {
     stroke-dasharray: 2 2;
 }
 
+button.active {
+  color: #16a085;
+  border: 1px solid #1abc9c;
+}
+
 /* tooltip css */
 .d3-tip {
     line-height: 1;

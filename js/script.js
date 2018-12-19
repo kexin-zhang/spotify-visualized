@@ -76,6 +76,16 @@ document.getElementById("acousticness").addEventListener("click", () => {
     displayBeeswarm("acousticness", 0, 1);
 });
 
+let buttons = document.querySelectorAll("button");
+buttons.forEach((elem) => {
+  elem.addEventListener("click", (e) => {
+    let curr = document.querySelector("button.active");
+    curr.classList.remove("active");
+
+    e.target.classList.add("active");
+  });
+});
+
 function initChart(path, key, centerMethod) {
     curr_key = key;
 
