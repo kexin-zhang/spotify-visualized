@@ -57,15 +57,15 @@ document.getElementById("album").addEventListener("click", () => {
 });
 
 document.getElementById("danceability").addEventListener("click", () => {
-    displayByScale("danceability", 0, 1);
+    displayBeeswarm("danceability", 0, 1);
 });
 
 document.getElementById("energy").addEventListener("click", () => {
-    displayByScale("energy", 0, 1);
+    displayBeeswarm("energy", 0, 1);
 });
 
 document.getElementById("valence").addEventListener("click", () => {
-    displayByScale("valence", 0, 1);
+    displayBeeswarm("valence", 0, 1);
 });
 
 function initChart(path, key, centerMethod) {
@@ -134,7 +134,7 @@ function displayByScale(key, min, max) {
                   .domain([min, max])
                   .range([0, WIDTH]);
 
-    simulation.force('charge', d3.forceManyBody().strength(0))
+    simulation.force('charge', null)
               .force('x', d3.forceX().strength(FORCE_STRENGTH).x((d) => scale(d[key])))
               .force('y', d3.forceY().strength(FORCE_STRENGTH).y( HEIGHT / 2 ));
     
@@ -142,6 +142,34 @@ function displayByScale(key, min, max) {
 
     g.append("g")
      .attr("transform", `translate(0, ${HEIGHT/2})`)
+     .call(d3.axisBottom(scale))
+     .attr("class", "axis");
+}
+
+function displayBeeswarm(key, min, max) {
+    curr_key = key
+    show_labels = false;
+
+    // clear labels
+    d3.selectAll(".label").remove();
+    d3.selectAll(".axis").remove();
+
+    if (min === undefined) { min = d3.min(nodes, (d) => d[key]); }
+    if (max === undefined) { max = d3.max(nodes, (d) => d[key]); }
+
+    let scale = d3.scaleLinear()
+                  .domain([min, max])
+                  .range([0, WIDTH]);
+
+    simulation.force("charge", null)
+              .force('x', d3.forceX().strength(FORCE_STRENGTH).x((d) => scale(d[key])))
+              .force('y', d3.forceY().strength(FORCE_STRENGTH).y( HEIGHT / 2 ))
+              .force("collide", d3.forceCollide(4));
+
+    simulation.alpha(1).restart();
+
+    g.append("g")
+     .attr("transform", `translate(0, ${HEIGHT/2 + 50})`)
      .call(d3.axisBottom(scale))
      .attr("class", "axis");
 }
