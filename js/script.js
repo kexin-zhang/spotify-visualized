@@ -34,11 +34,11 @@ let simulation = d3.forceSimulation()
 
 let tip = d3.tip()
             .attr("class", "d3-tip")
-            .html(function(d) { return `${d.name} - ${d.artist}<br>Rank: ${d.position}`});
+            .html(function(d) { return `${d.name} - ${d.artist}`});
 
 g.call(tip);            
 
-initChart("data/songs.csv", "artist", "treemap");
+initChart("data/songs2018.csv", "artist", "treemap");
 
 document.getElementById("artist").addEventListener("click", () => {
     groupBy("treemap", "artist");
