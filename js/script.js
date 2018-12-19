@@ -5,8 +5,8 @@ const VELOCITY_DECAY = 0.2;
 const RADIUS = 4;
 let margin = {
     top: 0,
-    left: 10,
-    right: 20,
+    left: 15,
+    right: 15,
     bottom: 0
 }
 
@@ -68,6 +68,14 @@ document.getElementById("valence").addEventListener("click", () => {
     displayBeeswarm("valence", 0, 1);
 });
 
+document.getElementById("speechiness").addEventListener("click", () => {
+    displayBeeswarm("speechiness", 0, 1);
+});
+
+document.getElementById("acousticness").addEventListener("click", () => {
+    displayBeeswarm("acousticness", 0, 1);
+});
+
 function initChart(path, key, centerMethod) {
     curr_key = key;
 
@@ -119,6 +127,7 @@ function groupBy(centerMethod, key) {
     simulation.alpha(1).restart();
 }
 
+// includes overlap of particles
 function displayByScale(key, min, max) {
     curr_key = key
     show_labels = false;
@@ -146,6 +155,7 @@ function displayByScale(key, min, max) {
      .attr("class", "axis");
 }
 
+// beeswarm plot, add collision to avoid overlap
 function displayBeeswarm(key, min, max) {
     curr_key = key
     show_labels = false;
@@ -168,6 +178,7 @@ function displayBeeswarm(key, min, max) {
 
     simulation.alpha(1).restart();
 
+    // todo: maybe back the transform y more robust instead of just offsetting by 50?
     g.append("g")
      .attr("transform", `translate(0, ${HEIGHT/2 + 50})`)
      .call(d3.axisBottom(scale))
