@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from csv import DictReader, DictWriter
 
 USER_ID = 'spotify:user:spotify'
-PLAYLIST_ID = 'spotify:user:spotify:playlist:37i9dQZF1DX1HUbZS4LEyL'
+PLAYLIST_ID = 'spotify:user:spotify:playlist:37i9dQZF1DXaqCgtv7ZR3L'
 
 client_credentials_manager = SpotifyClientCredentials()
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
@@ -50,7 +50,7 @@ for i in range(len(ids)):
     out.append(track)
 
 fields = ["name", "artist", "album", "date", "explicit", "features", "acousticness", "danceability", "energy", "key", "loudness", "speechiness", "tempo", "valence", "popularity"]
-with open("songs2018.csv", "w") as f:
+with open("songs2020.csv", "w") as f:
     writer = DictWriter(f, fieldnames=fields)
     writer.writeheader()
     writer.writerows(out)

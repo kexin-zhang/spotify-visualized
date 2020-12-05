@@ -38,7 +38,7 @@ let tip = d3.tip()
 
 g.call(tip);            
 
-initChart("data/songs2018.csv", "artist", "treemap");
+initChart("data/songs2020.csv", "artist", "treemap");
 
 document.getElementById("artist").addEventListener("click", () => {
     groupBy("treemap", "artist");
